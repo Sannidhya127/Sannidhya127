@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Sannidhya127/Sannidhya127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sannidhya127/Sannidhya127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some things you will need to know before proceeding:
 
@@ -13,4 +13,4 @@ Here are some things you will need to know before proceeding:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
