@@ -2,7 +2,7 @@
 
 <!--
 **Sannidhya127/Sannidhya127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="https://th.bing.com/th/id/OIP.VHmr7pShAIHDsgAJNnyeLQHaDO?w=300&h=152&c=7&o=5&dpr=1.15&pid=1.7" width = "1000px" height = "1000px" align = "center">
+<img src="https://th.bing.com/th/id/OIP.VHmr7pShAIHDsgAJNnyeLQHaDO?w=300&h=152&c=7&o=5&dpr=1.15&pid=1.7" width = "1000px" height = "500px" align = "center">
 Here are some things you will need to know before proceeding:
 
 - 🔭 I’m a Student in St. Xavier's Collegiate School Kolkata
