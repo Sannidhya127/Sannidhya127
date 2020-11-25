@@ -1,5 +1,8 @@
 ### Hi Idiot 😁! How are you??
 
+<a href="https://dev.to/sannidhya4396">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sannidhya Dasgupta's DEV Profile" height="30" width="30">
+</a>
 
 <!--
 **Sannidhya127/Sannidhya127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
