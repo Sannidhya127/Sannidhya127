@@ -24,4 +24,8 @@ Here are some things you will need to know before proceeding:
 <p><font color="red"><a href="https://stackoverflow.com/users/14275836/sannidhya-dasgupta">My Stack Overflow Profile</a></font></p>
 <br>
 <a href="https://gitlab.com/Sannidhya4396" class = "link">My GitLab Profile</a>
+<br>
 <img align="left" alt="Sannidhya127's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Sannidhya127&show_icons=true&hide_border=true&theme=radical" />
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya127&langs_count=5&theme=tokyonight">
+<br>
+<img src = "https://visitor-badge.laobi.icu/badge?page_id=Sannidhya127.Sannidhya127">
