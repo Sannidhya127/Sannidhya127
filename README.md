@@ -1,5 +1,5 @@
 ### Hi Idiot 😁! How are you??
-
+<img src = "https://visitor-badge.laobi.icu/badge?page_id=Sannidhya127.Sannidhya127">
 <a href="https://dev.to/sannidhya4396">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Sannidhya Dasgupta's DEV Profile" height="30" width="30">
 </a>
@@ -29,5 +29,5 @@ Here are some things you will need to know before proceeding:
 <img align="left" alt="Sannidhya127's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Sannidhya127&show_icons=true&hide_border=true&theme=radical">
 <br>
 <br>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya127&langs_count=5&theme=tokyonight">
-<img src = "https://visitor-badge.laobi.icu/badge?page_id=Sannidhya127.Sannidhya127">
+<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya127&langs_count=5&theme=tokyonight">
+
