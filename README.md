@@ -26,8 +26,8 @@ Here are some things you will need to know before proceeding:
 <a href="https://gitlab.com/Sannidhya4396" class = "link">My GitLab Profile</a>
 <br>
 <br>
-<img align="left" alt="Sannidhya127's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Sannidhya127&show_icons=true&hide_border=true&theme=radical" />
+<img align="left" alt="Sannidhya127's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Sannidhya127&show_icons=true&hide_border=true&theme=radical">
+<br>
 <br>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya127&langs_count=5&theme=tokyonight">
-<br>
 <img src = "https://visitor-badge.laobi.icu/badge?page_id=Sannidhya127.Sannidhya127">
