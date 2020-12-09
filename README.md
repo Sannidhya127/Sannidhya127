@@ -29,7 +29,6 @@ Here are some things you will need to know before proceeding:
 <img align="left" alt="Sannidhya127's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Sannidhya127&show_icons=true&hide_border=true&theme=radical">
 <br>
 <br>
-<img align = "right" src = "https://th.bing.com/th/id/OIP.hvTPBb1LVYVEb65rPWe4FgHaHa?w=176&h=180&c=7&o=5&dpr=1.38&pid=1.7" height = 300px width = 400px>
 <br>
 <br>
 <img align = "left"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya127&langs_count=5&theme=tokyonight">
