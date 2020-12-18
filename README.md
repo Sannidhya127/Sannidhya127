@@ -31,5 +31,3 @@ Here are some things you will need to know before proceeding:
 <br>
 <br>
 <br>
-<img align = "left"  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Sannidhya127&langs_count=5&theme=tokyonight">
-
