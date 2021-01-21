@@ -6,7 +6,7 @@
 
 <!--
 **Sannidhya127/Sannidhya127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<img src="https://th.bing.com/th/id/OIP.TAmSjC3tTgSmighHeXkIfwHaFL?w=260&h=182&c=7&o=5&dpr=1.38&pid=1.7" width = "700px" height = "500px" align = "center">
+<img src="https://th.bing.com/th/id/OIP.TAmSjC3tTgSmighHeXkIfwHaFL?w=260&h=182&c=7&o=5&dpr=1.38&pid=1.7" width = "700px" height = "550px" align = "center">
 
 
 
