@@ -15,7 +15,7 @@
 Here are some things you will need to know before proceeding:
 
 - 🔭 I’m a Student in St. Xavier's Collegiate School Kolkata
-- 🌱 I have an advanced amount of knowledge in Python, Java, C, C++, XML, 
+- 🌱 I have an some amount of knowledge in Python, Java, C, C++, XML, PHP, Javascript
 - 👯 I’m hyper interested in collaborations and pull requests in my project
 - 💬 Ask me about anything and I promise a reply ( I am a man of my word )
 - 📫 How to reach me: Walk from your Bed room and to the bathroom and you found me! Congratss!!!!
