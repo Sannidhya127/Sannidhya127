@@ -20,10 +20,6 @@ Here are some things you will need to know before proceeding:
 - 💬 Ask me about anything and I promise a reply ( I am a man of my word )
 - 📫 How to reach me: Walk from your Bed room and to the bathroom and you found me! Congratss!!!!
 - ⚡ Fun fact: I am a human😉
-
-<p><font color="red"><a href="https://stackoverflow.com/users/14275836/sannidhya-dasgupta">My Stack Overflow Profile</a></font></p>
-<br>
-<a href="https://gitlab.com/Sannidhya4396" class = "link">My GitLab Profile</a>
 <br>
 <br>
 <img align="left" alt="Sannidhya127's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=Sannidhya127&show_icons=true&hide_border=true&theme=radical">
